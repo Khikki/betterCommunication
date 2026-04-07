@@ -1,0 +1,9 @@
+{
+  "name": "BetterCommunication",
+  "version_number": "0.2.2",
+  "website_url": "https://example.invalid/local-only",
+  "description": "UI-only communication improvements for Super Battle Golf: Steam profile links, clickable chat URLs, and optional local chat history.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
