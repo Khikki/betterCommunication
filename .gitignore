@@ -6,3 +6,4 @@ obj/
 *.pdb
 *.cache
 *.log
+tools/*.exe
